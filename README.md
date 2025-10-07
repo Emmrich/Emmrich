@@ -1,4 +1,4 @@
-<h1>Hi, I'm Temitope! <br/><a href="https://github.com/emmrich">AI Specialist, AI Agent/Chatbot Developer, Workflow Automation Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cyber</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Temitope! <br/><a href="https://github.com/emmrich">Transforming Businesses with AI Agents & Chatbots | AI Automation Specialist | Driving Innovations, Efficiency & Scalable Solutions with Smart Automations. </a></h1>
 
 <h2>👨‍💻 AI Agent/Chatbot Projects:</h2>
 
