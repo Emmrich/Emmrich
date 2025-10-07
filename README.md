@@ -3,26 +3,21 @@
 <h2>👨‍💻 AI Agent/Chatbot Projects:</h2>
 
 - <b>AI Medical Assistant Agent – (AMAA)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Get to AMAA](https://github.com/Emmrich/AI-Medical-Assistant-Agent-AMAA-)
 - <b>AI Frontdesk Assistant Agent – (AFDAA)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Get to AFDAA](https://github.com/Emmrich/AI-Front-Desk-Assistant-Agent-AFDAA-)
 - <b> AI Real Estate Recommendation Assistant Agent – (ARERAA)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Get to ARERAA](https://github.com/Emmrich/AI-Real-Estate-Recommendation-Assistant-Agent-ARERAA-)
 - <b>AI Real Estate Assistant Agent – (AREAA)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>AI Legal Assistant Agent – ALAA</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>AI Nutritional Assistant Agent – ANAA</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>AI Fashion Assistant Agent – AFAA</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>AI Fitness & Wellness Assistant Agent – AFWAA</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Get to AREAA](https://github.com/Emmrich/AI-Real-Estate-Assistant-Agent-AREAA-)
+- <b>AI Legal Assistant Agent – (ALAA)</b>
+  - [Get to ALAA](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>AI Nutritional Assistant Agent – (ANAA)</b>
+  - [Get to ANAA](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>AI Fashion Assistant Agent – (AFAA)</b>
+  - [Get to AFAA](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>AI Fitness & Wellness Assistant Agent – (AFWAA)</b>
+  - [Get to AFWAA](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 
